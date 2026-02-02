@@ -8,6 +8,7 @@ export default class DataScienceImg extends Component {
         width="1120"
         height="829.80067"
         viewBox="0 0 1120 829.80067"
+        alt="Unreal Editor with my voxel project SkyQuest"
         src={require("../../assets/images/unreal_editor.png")}
       />
     );
