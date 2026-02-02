@@ -5,6 +5,7 @@ import TopButton from "../../components/topButton/TopButton";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import { Fade } from "react-reveal";
+import { greeting } from "../../portfolio";
 import "./ContactComponent.css";
 import { contactPageData } from "../../portfolio.js";
 
@@ -55,7 +56,11 @@ class Contact extends Component {
                   </p>
                 </div>
                 <div className="resume-btn-div">
-                  <Button text="See My Resume" href="/resume" theme={theme} />
+                  <Button
+                    text="See My Resume"
+                    href={greeting.resumeLink}
+                    theme={theme}
+                  />
                 </div>
               </div>
             </div>
