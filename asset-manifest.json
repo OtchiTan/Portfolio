@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.09ff7795.chunk.css",
-    "main.js": "./static/js/main.82615904.chunk.js",
-    "main.js.map": "./static/js/main.82615904.chunk.js.map",
+    "main.js": "./static/js/main.f206e890.chunk.js",
+    "main.js.map": "./static/js/main.f206e890.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
     "static/js/2.99d95af4.chunk.js": "./static/js/2.99d95af4.chunk.js",
     "static/js/2.99d95af4.chunk.js.map": "./static/js/2.99d95af4.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f3c971dcd19a508fe2f1f0fbc72c4b8f.js": "./precache-manifest.f3c971dcd19a508fe2f1f0fbc72c4b8f.js",
+    "precache-manifest.c7221dc8afea790461742fdb8b81d424.js": "./precache-manifest.c7221dc8afea790461742fdb8b81d424.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.09ff7795.chunk.css.map": "./static/css/main.09ff7795.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CCI_logo.png": "./static/media/CCI_logo.8373d295.png",
-    "static/media/CV_Adam_Gragnic.pdf": "./static/media/CV_Adam_Gragnic.b74734d3.pdf",
+    "static/media/CV_Adam_Gragnic.pdf": "./static/media/CV_Adam_Gragnic.76b3c2bd.pdf",
     "static/media/UQAC_logo.png": "./static/media/UQAC_logo.e82afa9c.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.fb7e7b0c.js",
     "static/js/2.99d95af4.chunk.js",
     "static/css/main.09ff7795.chunk.css",
-    "static/js/main.82615904.chunk.js"
+    "static/js/main.f206e890.chunk.js"
   ]
 }
