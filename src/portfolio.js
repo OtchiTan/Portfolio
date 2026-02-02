@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I am passionate about working on projects that focus on building sustainable and scalable technical solutions. My expertise includes web and mobile application development, with a strong emphasis on online and networked video game development.",
   resumeLink:
-    "https://drive.google.com/file/d/1OpYNGoI_IUV_mfAijRL-Mz8zOaH5OFdb/view?usp=sharing",
+    "https://drive.google.com/file/d/1CzEOhgOBwc0qnhBGY3wFfpAo9ugCdpU2/view?usp=sharing",
   portfolio_repository: "https://github.com/OtchiTan",
   githubProfile: "https://github.com/OtchiTan",
 };
